@@ -16,6 +16,6 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
   <br>
   
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jbhongg)](https://github.com/jbhongg/github-readme-stats)
+  [![jbhongg's GitHub stats](https://github-readme-stats.vercel.app/api?username=jbhongg)](https://github.com/jbhongg/github-readme-stats)
 
 </div>
