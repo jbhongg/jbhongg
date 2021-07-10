@@ -40,14 +40,14 @@
   <img src="https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=CentOS&logoColor=white"/>
                                                                                                      
                                                                                                      
-  </div>
-  <div align=center>
+</div>
+<div align=center>
   <br>                                                                                        
   <br>                                             
   <br>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>                                                                                       <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>  
-  </div>
+</div>
 <div align=center>
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jbhongg&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 </div>
