@@ -48,6 +48,6 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>                                                                                       <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>  
   </div>
-  <div align=center>
+<div align=center>
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jbhongg&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-  </div>
+</div>
