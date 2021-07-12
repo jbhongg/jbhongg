@@ -1,5 +1,6 @@
 ## Hi <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">
-<hr>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jbhongg&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <div align=center>
   <h2> Tech Stack</h2>
   <h3> techs that i've used at least once</h3>
@@ -51,5 +52,5 @@
   <br>                                             
   <br>
   
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jbhongg&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  
 </div>
