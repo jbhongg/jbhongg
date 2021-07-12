@@ -1,10 +1,11 @@
 ## Hi <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jbhongg&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-<div align=center>
-  <h2> Tech Stack</h2>
-  <h3> techs that i've used at least once</h3>
 
+
+
+### Tech Stack
+#### techs that i've used at least once
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/CPP-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
@@ -39,18 +40,3 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
   <img src="https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=CentOS&logoColor=white"/>                                                                           
-</div>
-<div align=center>
-  <br>                                                                                        
-  <br>                                             
-  <br>
-  <h2> ME</h2>
-
-</div>
-<div align=center>
-  <br>                                                                                        
-  <br>                                             
-  <br>
-  
-  
-</div>
