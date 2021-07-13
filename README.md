@@ -1,5 +1,4 @@
-## Hi <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">
-
+## Hi 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jbhongg&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
