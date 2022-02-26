@@ -1,4 +1,13 @@
-## Hi 
+### JinBin Hong 
+- 전기차 배터리 분야 MES 개발 및 운영 (2021.09 ~ )
+- 충북대학교 소프트웨어학과 졸업 (2015.03 ~ 2021.02)
+- ETRI(한국전자통신연구원) 뇌휴먼인터페이스연구실 동계 인턴 (2020.01 ~ 2020.02)
+- 충북대학교 소프트웨어학과 컴퓨터 그래픽스 교과목 학부생 TA (2019.09 ~ 2019.12, 2020.09 ~ 2020.12)
+- Samsung Software Academy For Youth 5기 이수 (2021.01 ~ 2021.08)
+- [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=jbhongg)](https://solved.ac/jbhongg) 
+
+<br>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jbhongg&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jbhongg&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
